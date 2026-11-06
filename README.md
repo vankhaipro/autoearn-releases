@@ -21,19 +21,19 @@ Mỗi tool có mục riêng bên dưới, luôn trỏ tới bản mới nhất. 
 <!-- tool:AutoVideoShort:end -->
 
 <!-- tool:AutoEarnProxy:start -->
-## 🔒 AutoEarn Proxy — bản 2.0.0
+## 🔒 AutoEarn Proxy — bản 2.1.0
 
 Nhận proxy cấp theo License Key AutoEarn (key mua / dùng thử trên autoearn.dev), copy dạng IP:Port:User:Pass cho GPM Login, AdsPower, trình duyệt...
 
 | Máy | Tải về |
 | --- | --- |
-| Windows 10/11 — bản cài đặt | [AutoEarnProxy-2.0.0-win-x64-setup.exe](https://github.com/vankhaipro/autoearn-releases/releases/download/proxy-v2.0.0/AutoEarnProxy-2.0.0-win-x64-setup.exe) |
-| Windows 10/11 — bản chạy luôn (portable) | [AutoEarnProxy-2.0.0-win-x64-portable.exe](https://github.com/vankhaipro/autoearn-releases/releases/download/proxy-v2.0.0/AutoEarnProxy-2.0.0-win-x64-portable.exe) |
-| macOS chip Intel | [AutoEarnProxy-2.0.0-mac-x64.dmg](https://github.com/vankhaipro/autoearn-releases/releases/download/proxy-v2.0.0/AutoEarnProxy-2.0.0-mac-x64.dmg) |
-| macOS chip Apple (M1–M4) | [AutoEarnProxy-2.0.0-mac-arm64.dmg](https://github.com/vankhaipro/autoearn-releases/releases/download/proxy-v2.0.0/AutoEarnProxy-2.0.0-mac-arm64.dmg) |
+| Windows 10/11 — bản cài đặt | [AutoEarnProxy-2.1.0-win-x64-setup.exe](https://github.com/vankhaipro/autoearn-releases/releases/download/proxy-v2.1.0/AutoEarnProxy-2.1.0-win-x64-setup.exe) |
+| Windows 10/11 — bản chạy luôn (portable) | [AutoEarnProxy-2.1.0-win-x64-portable.exe](https://github.com/vankhaipro/autoearn-releases/releases/download/proxy-v2.1.0/AutoEarnProxy-2.1.0-win-x64-portable.exe) |
+| macOS chip Intel | [AutoEarnProxy-2.1.0-mac-x64.dmg](https://github.com/vankhaipro/autoearn-releases/releases/download/proxy-v2.1.0/AutoEarnProxy-2.1.0-mac-x64.dmg) |
+| macOS chip Apple (M1–M4) | [AutoEarnProxy-2.1.0-mac-arm64.dmg](https://github.com/vankhaipro/autoearn-releases/releases/download/proxy-v2.1.0/AutoEarnProxy-2.1.0-mac-arm64.dmg) |
 
 - **Mac lần đầu mở:** kéo app vào Applications → chuột phải → **Open** → **Open**. Nếu báo "damaged": `xattr -dr com.apple.quarantine "/Applications/AutoEarn Proxy.app"`
 - **Windows:** SmartScreen cảnh báo → **More info** → **Run anyway**.
 
-[Ghi chú bản 2.0.0](https://github.com/vankhaipro/autoearn-releases/releases/tag/proxy-v2.0.0) · [Các bản cũ](https://github.com/vankhaipro/autoearn-releases/releases?q=proxy-v&expanded=true)
+[Ghi chú bản 2.1.0](https://github.com/vankhaipro/autoearn-releases/releases/tag/proxy-v2.1.0) · [Các bản cũ](https://github.com/vankhaipro/autoearn-releases/releases?q=proxy-v&expanded=true)
 <!-- tool:AutoEarnProxy:end -->
